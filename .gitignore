@@ -330,3 +330,11 @@ ASALocalRun/
 .mfractor/
 
 *.DS_Store
+
+#App Specific Exclusions
+persit/
+chroma-*
+id_*
+index_*
+uuid_*
+constants.py
